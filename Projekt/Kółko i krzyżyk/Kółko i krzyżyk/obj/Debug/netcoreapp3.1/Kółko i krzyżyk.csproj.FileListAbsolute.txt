@@ -1,0 +1,14 @@
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.exe
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.deps.json
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.json
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.dev.json
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\KółkoIKrzyżykLib.dll
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\KółkoIKrzyżykLib.pdb
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.CopyComplete
