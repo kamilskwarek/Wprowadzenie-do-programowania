@@ -1,0 +1,8 @@
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\bin\Debug\netstandard2.0\KółkoIKrzyżykLib.deps.json
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\bin\Debug\netstandard2.0\KółkoIKrzyżykLib.dll
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\bin\Debug\netstandard2.0\KółkoIKrzyżykLib.pdb
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\obj\Debug\netstandard2.0\KółkoIKrzyżykLib.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\obj\Debug\netstandard2.0\KółkoIKrzyżykLib.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\obj\Debug\netstandard2.0\KółkoIKrzyżykLib.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\obj\Debug\netstandard2.0\KółkoIKrzyżykLib.dll
+C:\Users\Kamil\source\repos\Kółko i krzyżyk\KółkoIKrzyżykLib\obj\Debug\netstandard2.0\KółkoIKrzyżykLib.pdb
