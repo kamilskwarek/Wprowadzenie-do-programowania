@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kółko i krzyżyk/1.0.0": {
+        "dependencies": {
+          "KółkoIKrzyżykLib": "1.0.0"
+        },
+        "runtime": {
+          "Kółko i krzyżyk.dll": {}
+        }
+      },
+      "KółkoIKrzyżykLib/1.0.0": {
+        "runtime": {
+          "KółkoIKrzyżykLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kółko i krzyżyk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KółkoIKrzyżykLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
